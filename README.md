@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m a full stack developer
+- 🔭 I like reading blogs and exploring different technologies
 <!--
 **KUMARNiru007/KUMARNiru007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
