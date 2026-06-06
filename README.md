@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Kumar%20Nirupam&fontSize=55&fontColor=ffffff&animation=fadeIn&color=0:2563EB,100:1E3A8A" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1500&color=C9D1D9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Cloud+and+DevOps+Developer" />
-</p>
 
 # 👋Hi there...
 
