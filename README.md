@@ -49,6 +49,9 @@
 [![X](https://img.shields.io/badge/@KumarNirupam1-black.svg?logo=X\&logoColor=white)](https://x.com/KumarNirupam1)
   
 [![Email](https://img.shields.io/badge/kumar.nirupam24@gmail.com-D14836?logo=gmail\&logoColor=white)](mailto:kumar.nirupam24@gmail.com)
+  
+[![Medium](https://img.shields.io/badge/@kumar.nirupam24-12100E?logo=medium\&logoColor=white)](https://medium.com/@kumar.nirupam24)
+
 
 > Consistency is the silent engine of extraordinary results. ✨
 
