@@ -27,6 +27,13 @@
 
 </div>
 
+<h1 align="center">Certified Meshery Contributor</h1>
+
+<p align="center">
+  <a href="https://cloud.layer5.io/user/23b7aecb-e225-460f-b623-b22ab553d6af?tab=badges&badge=certified-meshery-contributor">
+    <img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" alt="Certified Meshery Contributor" />
+  </a>
+</p>
 
 # 🌐 Socials
 
